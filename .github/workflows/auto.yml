@@ -1,4 +1,4 @@
-name: Run quest auto completion bot
+name: Run auto quest
 
 on:
     workflow_dispatch: {}
